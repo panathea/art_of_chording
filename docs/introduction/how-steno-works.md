@@ -143,7 +143,7 @@ When typing "ground" on a normal keyboard, you might accidentally type "gronud" 
 
 Another mistake is an accidental key in a chord. This could turn "remember" (`RER`) into "rear" (`RAER`.)
 
-Using the wrong sound can have devastating consequences: [one time](https://twitter.com/morinted/status/1232396116962029576), I tried to chord `HER TAJ` for "heritage" but I hit `HER TIJ` and got "her to the best of my knowledge."
+Using the wrong sound can have devastating consequences: one time, I tried to chord `HER TAJ` for "heritage" but I hit `HER TIJ` and got "her to the best of my knowledge."
 
 If the stenographer types a chord that isn't in their dictionary, say `ST-RB`, then the output will be "ST-RB" so that they can see their mistake.^[Typos in stenography are referred to as *misstrokes*. Stenographers often save recurring misstrokes so that repeated mistakes come out properly. For example, I often mistakenly think that the word "relevant" is "revelant". I set my machine so that when I chord `REV LANT`, it outputs "relevant."]
 

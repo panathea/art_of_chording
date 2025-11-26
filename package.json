@@ -2,7 +2,7 @@
   "name": "art_of_chording",
   "version": "1.0.0",
   "private": false,
-  "author": "Ted Morin <morinted@gmail.com>",
+  "author": "Thea Morin <github@hashable.ca'>",
   "scripts": {
     "build": "vuepress build docs && (cd docs/.vuepress/dist && echo 'www.artofchording.com' > CNAME)",
     "lint": "vue-cli-service lint",
@@ -41,5 +41,5 @@
       "vue-cli-service lint"
     ]
   },
-  "repository": "https://github.com/morinted/art_of_chording.git"
+  "repository": "https://github.com/panathea/art_of_chording.git"
 }

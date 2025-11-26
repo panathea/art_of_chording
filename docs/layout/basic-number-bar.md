@@ -33,7 +33,7 @@ Using multiple digits, we can break down large numbers into just a couple stroke
 
 The last tool we will learn about for the number bar in this introduction is reversal. By adding the chord `EU` to our number stroke, the steno order of the numbers is reversed. `#TP` is "23", `#TPEU` is "32".
 
-In Plover's dictionary, only pairs of numbers \(10-98\) are reversible by default, but you can get the rest of the possible number chords by adding a [supplementary dictionary](https://raw.githubusercontent.com/morinted/plover-inversion/master/inverted.json). This will allow you to go up to `#STPHAOEUFPLT`: "9876054321".
+In Plover's dictionary, only pairs of numbers \(10-98\) are reversible by default, but you can get the rest of the possible number chords by adding a [supplementary dictionary](https://raw.githubusercontent.com/panathea/plover-inversion/master/inverted.json). This will allow you to go up to `#STPHAOEUFPLT`: "9876054321".
 
 Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL`.
 

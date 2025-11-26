@@ -51,7 +51,7 @@ module.exports = {
   ],
   themeConfig: {
     lastUpdated: 'Last Updated',
-    repo: 'morinted/art_of_chording',
+    repo: 'panathea/art_of_chording',
     logo: '/android-chrome-192x192.png',
     docsDir: 'docs',
     activeHeaderLinks: false,
