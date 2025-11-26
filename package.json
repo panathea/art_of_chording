@@ -4,10 +4,10 @@
   "private": false,
   "author": "Thea Morin <github@hashable.ca'>",
   "scripts": {
-    "build": "vuepress build docs && (cd docs/.vuepress/dist && echo 'www.artofchording.com' > CNAME)",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build docs && (cd docs/.vuepress/dist && echo 'www.artofchording.com' > CNAME)",
     "lint": "vue-cli-service lint",
     "prettier": "prettier --write .",
-    "start": "vuepress dev docs"
+    "start": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev docs"
   },
   "dependencies": {
     "@vue/composition-api": "^1.3.0",
